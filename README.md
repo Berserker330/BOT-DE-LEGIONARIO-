@@ -16,10 +16,10 @@
 ### PROCESO DE INSTALACION
 Instala archivos necesarios
 ```bash
-- pkg upgrade && update
+- pkg upgrade && update 
 - pkg install nodejs
 - pkg install git
-- pkg install bash
+- pgk install bash
 ```
 Clona este repositorio
  ```bash
