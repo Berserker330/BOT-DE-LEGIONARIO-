@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./media/imagen.jpeg" width="140" height="140"/>
+<img src="./"database/Screenshot_20211118-145327_Gallery.jpg" width="140" height="140"/>
 </p>
 <p align="center">
 𝗖𝗥𝗘𝗔𝗗𝗢𝗥: LEGIONARIO 
