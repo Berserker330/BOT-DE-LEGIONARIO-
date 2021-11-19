@@ -6,9 +6,9 @@
 
 ### MIS CONTACTOS
 <p>
-<a href="http://www https://chat.whatsapp.com/LUO6DRyHj1l3fzSomH8Eu3" /></a>
-<a href="http://www tiktok.com/@wazaaaaaaaa.oficial" /></a>
-<a href="https:// www https://instagram.com/freefireapk367?utm_medium=copy_link " /></a>
+<a href="http://www.https://chat.whatsapp.com/LUO6DRyHj1l3fzSomH8Eu3" /></a>
+<a href="http://www.tiktok.com/@wazaaaaaaaa.oficial" /></a>
+<a href="https:// www.https://instagram.com/freefireapk367?utm_medium=copy_link " /></a>
 
  
 </p>
