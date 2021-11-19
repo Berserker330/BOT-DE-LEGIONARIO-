@@ -2,13 +2,13 @@
 <img src="./media/imagen.jpeg" width="140" height="140"/>
 </p>
 <p align="center">
-𝗖𝗥𝗘𝗔𝗗𝗢𝗥: 𝕿𝖍𝖊𝕮𝖍𝖔𝖚𝖙𝖊
+𝗖𝗥𝗘𝗔𝗗𝗢𝗥: LEGIONARIO 
 
 ### MIS CONTACTOS
 <p>
-<a href="http://wa.me/18299897014" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
-<a href="http://www.instagram.com/the_choute_" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram" /></a>
-<a href="https://www.youtube.com/channel/UC-HPutaDGeTPjrCId0bXQgg" target="blank"><img src="https://img.shields.io/badge/Youtube-30302f?style=flat&logo=youtube" /></a>
+<a href="http://https://chat.whatsapp.com/LUO6DRyHj1l3fzSomH8Eu3" /></a>
+<a href="http:// tiktok.com/@wazaaaaaaaa.oficial" /></a>
+<a href="https:// https://instagram.com/freefireapk367?utm_medium=copy_link " /></a>
 
  
 </p>
